@@ -1,2 +1,2 @@
 # SVV-Homework
-Software Validation Varification - Homework-1
+Software Validation and Varification - Homework-1
